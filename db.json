@@ -1,0 +1,50 @@
+{
+  "questions": [
+    {
+      "id": "cac1",
+      "question": "What is the capital of Australia?",
+      "a": "Sydney",
+      "b": "Melbourne",
+      "c":"Canberra",
+      "d":"Brisbane",
+      "answer":"Canberra"
+    },
+    {
+      "id": "cab1",
+      "question": "Which element has the chemical symbol 'O'?",
+      "a": "Gold",
+      "b": "Oxygen",
+      "c":"Osmium",
+      "d":"Opium",
+      "answer":"Oxygen"
+    },
+    {
+      "id": "cac2",
+      "question": "Who wrote the play 'Romeo and Juliet' ?",
+      "a": "William Shakespeare",
+      "b": "Charles Dickens",
+      "c":"Jane Austen",
+      "d":"Mark Twain",
+      "answer":"William Shakespeare"
+    },
+    {
+      "id": "cac3",
+      "question": "In which year did the Titanic sink?",
+      "a": "1912",
+      "b": "1905",
+      "c":"1898",
+      "d":"1923",
+      "answer":"1912"
+    },
+    {
+      "id": "cac5",
+      "question": "What is the largest planet in our solar system?",
+      "a": "Earth",
+      "b": "Jupiter",
+      "c":"Mars",
+      "d":"Saturn",
+      "answer":"Jupiter"
+    }
+    
+  ]
+}
